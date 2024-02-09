@@ -1,3 +1,3 @@
 Strona Internetowa:
 
-# wojciecherstling.github.io
+[wojciecherstling.github.io](https://wojciecherstling.github.io)
